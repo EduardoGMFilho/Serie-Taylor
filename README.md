@@ -1,4 +1,3 @@
-
 # Série de Taylor
 
 Este projeto implementa, em Python, a aproximação de funções matemáticas utilizando a **Série de Taylor**. A ideia principal é ilustrar como a expansão em série pode aproximar funções reais a partir de polinômios, utilizando bibliotecas como `NumPy` e `Matplotlib` para os cálculos e visualizações.
